@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Real Estate Technologies
 
-You can use the [editor on GitHub](https://github.com/Ctrl-Z-Development/realestatetechnologies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are a new startup focused on integrating new technologies into the real estate software landscape.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
